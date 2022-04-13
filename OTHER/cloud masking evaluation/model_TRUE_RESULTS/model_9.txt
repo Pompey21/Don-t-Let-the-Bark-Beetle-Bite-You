@@ -1,0 +1,6 @@
+False Negative: 18396
+True Positive: 25975
+False Positive: 226
+True Negative: 1256011
+Precission: 0.9913743750238541
+Recall: 0.5854048815667892
