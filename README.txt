@@ -3,7 +3,7 @@
 The supporting material for the dissertation includes the code (1), majority of the data used (2), newly developed data-sets (3), and the results (4) of the project. All of these are accessed through their own folders.
 
 Here is the list of all the folders and what they contain: 
-  (1) Code : there are five .ipynb folders avaialble in this folder.
+  (1) Code : there are five .ipynb files available in this folder.
         - model.ipynb : contains the whole model
         - milanov_vrh_test.ipynb : tests conducted on the region of Milanov Vrh
         - parameter_tunning.ipynb : operations for the search of best parameter combination for cloud-masking component
