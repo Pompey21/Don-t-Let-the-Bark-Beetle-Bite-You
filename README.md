@@ -1,6 +1,8 @@
 # Don-t-Let-the-Bark-Beetle-Bite-You #
 
-The supporting material for the dissertation includes the [code](##code "Goto code") code (1), majority of the data used (2), newly developed data-sets (3), and the results (4) of the project. All of these are accessed through their own folders.
+The supporting material for the dissertation includes the [code](##Code "Goto Code")(1), [majority of the data used](##Data "Data")(2),
+
+majority of the data used (2), newly developed data-sets (3), and the results (4) of the project. All of these are accessed through their own folders.
 
 ## 
 
