@@ -22,10 +22,13 @@ Contains a set of data for regions in Slovenia and the ones in Croatia. These ca
 - Cabar : Contains two files, one with the coordinates for the two damaged forest areas in the Cabar region in Croatia, and the second one with the raw data for the Milanov Vrh area (this one is in Croatian!)
 
 ## New Data Sets
-  (3) New Data Sets : Contains three files: 'Locations of Regions' contains only the coordinate locations of the regions that had been used in this study - the ones that have been attacked, 'Locations of Regions and Years' contains the same information as the previous file however it also provides the year prior and the year of the attack so that the images can be accessed more easily, 'Milanov Vrh' contains raw data for the region of Milanov Vrh.
+Contains three files: 
+- _Locations of Regions_ contains only the coordinate locations of the regions that had been used in this study - the ones that have been attacked. 
+- _Locations of Regions and Years_ contains the same information as the previous file however it also provides the year prior and the year of the attack so that the images can be accessed more easily. 
+- _Milanov Vrh_ contains raw data for the region of Milanov Vrh.
 
 ## Results
-  (4) Results : this file contains only the test results for the regional tests - if the model can recognise the bark beetle attack - and the results of different combinations of parameters for the cloud-masking algorithm. 
+This folder contains only the test results for the regional tests - if the model can recognise the bark beetle attack - and the results of different combinations of parameters for the cloud-masking algorithm. 
   
 ## Notes
 Please note that the images used have not been put as part of the supporting material as this required much more organisation. If you do want to run particular tests, please contact me on marko.mekjavic@gmail.com and I will send you the necessary instructions and missing materials.
