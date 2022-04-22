@@ -9,6 +9,11 @@ Here is the list of all the folders and what they contain:
 ## Code
 There are five .ipynb folders avaialble in this folder.
 
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
+
 Markup : * model.ipynb : contains the whole model
          * milanov_vrh_test.ipynb : tests conducted on the region of Milanov Vrh
          * parameter_tunning.ipynb : operations for the search of best parameter combination for cloud-masking component
