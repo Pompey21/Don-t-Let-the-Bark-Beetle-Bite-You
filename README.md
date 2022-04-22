@@ -1,13 +1,13 @@
 # Don-t-Let-the-Bark-Beetle-Bite-You #
 
-The supporting material for the dissertation includes the _code_ (1), _majority of the data used_ (2), _newly developed data-sets_, and _results_ of the project. All of these are accessed through their own folders.
+The supporting material for the dissertation includes the _code_ (1), _majority of the data used_ (2), _newly developed data-sets_ (3), and _results_ (4) of the project. All of these are accessed through their own folders.
 
 ## 
 
 Here is the list of all the folders and what they contain: 
 
 ## Code ## 
-There are five .ipynb folders avaialble in this folder.
+There are five .ipynb files available in this folder.
 
 * **model.ipynb** : contains the whole model
 * **milanov_vrh_test.ipynb** : tests conducted on the region of Milanov Vrh
