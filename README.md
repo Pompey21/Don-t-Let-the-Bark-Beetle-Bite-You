@@ -7,13 +7,14 @@ The supporting material for the dissertation includes the code (1), majority of 
 Here is the list of all the folders and what they contain: 
 
 ## Code
-  (1) Code : there are five .ipynb folders avaialble in this folder.
-        - model.ipynb : contains the whole model
-        - milanov_vrh_test.ipynb : tests conducted on the region of Milanov Vrh
-        - parameter_tunning.ipynb : operations for the search of best parameter combination for cloud-masking component
-        - infected_regions_test.ipynb : tests conducted on the regions that had been attacked by the bark beetle
-        - cloud_masking_evaluation.ipynb : tests on the performance of the cloud masking algorithm
-        
+There are five .ipynb folders avaialble in this folder.
+
+Markup : * model.ipynb : contains the whole model
+         * milanov_vrh_test.ipynb : tests conducted on the region of Milanov Vrh
+         * parameter_tunning.ipynb : operations for the search of best parameter combination for cloud-masking component
+         * infected_regions_test.ipynb : tests conducted on the regions that had been attacked by the bark beetle
+         * cloud_masking_evaluation.ipynb : tests on the performance of the cloud masking algorithm
+
 ## Data
   (2) Data : Contains a set of data for regions in Slovenia and the ones in Croatia. These can be accessed           through their respective folders.
         - Slovenia : Contains a document where all the regions are stated in coordinates - the reports have been preprocessed and the coordinates have been taken out. As the reports were in Slovenian language they were not submitted here.
